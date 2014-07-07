@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A62FE5A6196B20F600AF4836"
-               BuildableName = "AHKSwiftOutTimingFunction.app"
-               BlueprintName = "AHKSwiftOutTimingFunction"
-               ReferencedContainer = "container:AHKSwiftOutTimingFunction.xcodeproj">
+               BlueprintIdentifier = "A63665C7196C7BD3009FE8C4"
+               BuildableName = "SwiftOutTimingFunction.app"
+               BlueprintName = "SwiftOutTimingFunction"
+               ReferencedContainer = "container:SwiftOutTimingFunction.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A62FE5C7196B20F600AF4836"
-               BuildableName = "AHKSwiftOutTimingFunctionTests.xctest"
-               BlueprintName = "AHKSwiftOutTimingFunctionTests"
-               ReferencedContainer = "container:AHKSwiftOutTimingFunction.xcodeproj">
+               BlueprintIdentifier = "A63665E8196C7BD3009FE8C4"
+               BuildableName = "SwiftOutTimingFunctionTests.xctest"
+               BlueprintName = "SwiftOutTimingFunctionTests"
+               ReferencedContainer = "container:SwiftOutTimingFunction.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A62FE5A6196B20F600AF4836"
-            BuildableName = "AHKSwiftOutTimingFunction.app"
-            BlueprintName = "AHKSwiftOutTimingFunction"
-            ReferencedContainer = "container:AHKSwiftOutTimingFunction.xcodeproj">
+            BlueprintIdentifier = "A63665C7196C7BD3009FE8C4"
+            BuildableName = "SwiftOutTimingFunction.app"
+            BlueprintName = "SwiftOutTimingFunction"
+            ReferencedContainer = "container:SwiftOutTimingFunction.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A62FE5A6196B20F600AF4836"
-            BuildableName = "AHKSwiftOutTimingFunction.app"
-            BlueprintName = "AHKSwiftOutTimingFunction"
-            ReferencedContainer = "container:AHKSwiftOutTimingFunction.xcodeproj">
+            BlueprintIdentifier = "A63665C7196C7BD3009FE8C4"
+            BuildableName = "SwiftOutTimingFunction.app"
+            BlueprintName = "SwiftOutTimingFunction"
+            ReferencedContainer = "container:SwiftOutTimingFunction.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A62FE5A6196B20F600AF4836"
-            BuildableName = "AHKSwiftOutTimingFunction.app"
-            BlueprintName = "AHKSwiftOutTimingFunction"
-            ReferencedContainer = "container:AHKSwiftOutTimingFunction.xcodeproj">
+            BlueprintIdentifier = "A63665C7196C7BD3009FE8C4"
+            BuildableName = "SwiftOutTimingFunction.app"
+            BlueprintName = "SwiftOutTimingFunction"
+            ReferencedContainer = "container:SwiftOutTimingFunction.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

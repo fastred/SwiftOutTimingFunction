@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AHKSwiftOutTimingFunction.xcscheme</key>
+		<key>SwiftOutTimingFunction.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>A62FE5A6196B20F600AF4836</key>
+		<key>A63665C7196C7BD3009FE8C4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A62FE5C7196B20F600AF4836</key>
+		<key>A63665E8196C7BD3009FE8C4</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  AHKSwiftOutTimingFunction
+//  SwiftOutTimingFunction
 //
-//  Created by Arkadiusz on 07-07-14.
+//  Created by Arkadiusz on 08-07-14.
 //  Copyright (c) 2014 Arkadiusz Holko. All rights reserved.
 //
 
