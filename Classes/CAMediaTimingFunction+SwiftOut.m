@@ -12,8 +12,8 @@
 
 + (CAMediaTimingFunction *)swiftOut
 {
-    CGPoint controlPoint1 = CGPointMake(0.40272031884193488, 0.0);
-    CGPoint controlPoint2 = CGPointMake(0.22564176495637611, 1.0);
+    CGPoint controlPoint1 = CGPointMake(0.4, 0.0);
+    CGPoint controlPoint2 = CGPointMake(0.2, 1.0);
     return [self functionWithControlPoints:controlPoint1.x :controlPoint1.y :controlPoint2.x :controlPoint2.y];
 }
 
